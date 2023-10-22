@@ -1,1 +1,3 @@
-this is for fix the bug modified bug1fix.java in bug1 file one
+this is for fix the bug modified in bug1fix.java
+
+
